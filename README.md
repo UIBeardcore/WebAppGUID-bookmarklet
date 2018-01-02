@@ -1,6 +1,7 @@
 # WebAppGUID Bookmarklet
 ================================================
-A helper to get Page GUID to find it in architect further on
+
+A helper to get page GUID to find it in architect further on
 
 ## Overview
 
