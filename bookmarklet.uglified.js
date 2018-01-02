@@ -1,0 +1,1 @@
+javascript:(function(UI,B,e,a,r,d,C,O,R,E){try{if(UI.SdlDitaDeliveryRootPath!=undefined){R=UI.document}else{throw""}}catch(ex){alert("Not a SDL Delivery Web APP!");return}alert("Topic ID: "+R.querySelector(".page-content > h1.topictitle1").id.split("__")[0])})(window.top);
